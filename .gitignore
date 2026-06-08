@@ -1,2 +1,6 @@
 data/
 scripts_tests/
+output/
+
+.env
+.DS_Store
