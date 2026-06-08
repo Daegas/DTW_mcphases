@@ -14,12 +14,20 @@
 **Output**: `output/mcphases_consolidated_2022.csv`e imagenes con formato `subject_{subject_id}_physio_signals.png`
   
 
+---
 
 # Uso de IA
-* Se creó una primera versión del ETL con *in-line* prompsts como:
-  * *# max and min frequency of records per subject*
-  * *# counts by id*
-* Luego se pidió revisión y mejorar estructura así como la parte final de consolidación del csv.
+* ETL:
+  * Se creó una primera versión del manual con ayuda de *in-line* prompsts como:
+    * *# max and min frequency of records per subject*
+    * *# counts by id*
+    * *# plot de las señales de un sujeto* 
+    * Algunas se mantienen como comentarios en las celdas
+  * Se solicitó revisión y mejorar estructura así como la parte final de consolidación del csv.
+* DTW:
+  * Se propmtea informando la estructura del output del ETL y los objetivos
+  * Se hace una primera revisión
+
 
 # Referencias
 ```
