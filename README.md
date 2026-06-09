@@ -24,9 +24,10 @@
     * *# plot de las señales de un sujeto* 
     * Algunas se mantienen como comentarios en las celdas
   * Se solicitó revisión y mejorar estructura así como la parte final de consolidación del csv.
+* script para verificar tipos de estandarización y métodos del linkage
 * DTW:
   * Se propmtea informando la estructura del output del ETL y los objetivos
-  * Se hace una primera revisión
+  * Se hace una primera revisión.
 
 
 # Referencias
